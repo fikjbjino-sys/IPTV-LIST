@@ -3,15 +3,19 @@
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGwhzqH.png" group-title="General",LAAYOUNE HD
 https://stream-lb.livemediama.com/laayounetv/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFDe2Ml.png" group-title="General",ALAOULA TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFDe2Ml.png" group-title="General TNT",ALAOULA TNT HD
 https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8NDtsb.jpeg" group-title="General",2M HD
 https://stream-lb.livemediama.com/2m/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8NDtsb.jpeg" group-title="General",2M TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8NDtsb.jpeg" group-title="General TNT",2M TNT HD
 https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General",ARRYADIA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="SPORTS",ARRYADIA HD
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General",ARRYADIA TNT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General TNT",ARRYADIA TNT HD
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General",ARRYADIA HD 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="SPORTS",ARRYADIA HD 1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="SPORTS",ARRYADIA HD 2
+https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="SPORTS",ARRYADIA HD 3
+https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
