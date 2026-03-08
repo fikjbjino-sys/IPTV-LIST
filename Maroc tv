@@ -13,3 +13,5 @@ https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General",ARRYADIA TNT HD
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="General",ARRYADIA HD 1
+https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
