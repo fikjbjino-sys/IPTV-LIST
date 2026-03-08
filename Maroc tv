@@ -19,3 +19,25 @@ https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDzTc2X.jpeg" group-title="SPORTS",ARRYADIA HD 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02RMk68.jpeg" group-title="General",ATHAQAFIA HD
+https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2lbkPX.jpeg" group-title="General",AL MAGHRIBIA HD
+https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZ0c1q5.png" group-title="General",ASSADISAA HD
+https://stream-lb.livemediama.com/assadissa/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPvuRmh.png" group-title="General",AFLAM TV HD
+https://stream-lb.livemediama.com/aflam/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNHFjAi.png" group-title="General",TAMAZIGHT HD
+https://stream-lb.livemediama.com/tamazight/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iMGXIrH.jpeg" group-title="General",M24 MAROC HD
+https://stream-lb.livemediama.com/m24maroc/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrjHALh.png" group-title="General",MEDI1TV ARABIC 
+https://stream-lb.livemediama.com/medi1tv-arabic/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5aJbpC.png" group-title="General",MEDI1TV MAGHREB
+https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3x1dw1f.jpeg" group-title="General",TELE MAROC TV
+https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVXRh6i.png" group-title="General",CHADA TV
+https://stream-lb.livemediama.com/chadatv/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ezs3wtK.png" group-title="General",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
