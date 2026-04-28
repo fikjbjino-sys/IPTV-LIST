@@ -38,6 +38,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x1dw1f.jpeg" group-title="General",TELE MAROC TV
 https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zVXRh6i.png" group-title="General",CHADA TV
-https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+https://stream-lb.livemediama.com/chadatv/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ezs3wtK.png" group-title="General",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
