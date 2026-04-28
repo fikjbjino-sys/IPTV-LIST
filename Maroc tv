@@ -36,7 +36,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5aJbpC.png" group-title="General",MEDI1TV MAGHREB
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3x1dw1f.jpeg" group-title="General",TELE MAROC TV
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI4ZTljMjNkNDhlM2VjNzA0YzUxMmNlYzk4NWE1ZjZlOCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzc3MzY1NTkwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.EAB2YkPIog1odL1jTWOtQDTXlhtTcgbJkKnegNRIo7XBnmTlNKimxMCesytqnSU1_n3JyEc6jFLcYZmkEuvVkO2f4epgEM8of2FZ2dye6iIxEHkJGSQIhUugXnVTQz6H0BgDPtzV7br1oEY7z9duPXelKe_N0BbQNDBHhkiq3TJcdClRE_h3stDsB6gpC8TPP7H1bbgGebbnXCMzq2EPkf1gd9-C9Mtd8MV2IyYimamtG864uKXPwhK5zUWJikRRu50FWwzpc1yV8N579wHbrT20zePdQVrwqatzG4iYOoceZSJb4Ep6cDnQG4oL2nskIhQHdKjwId0EwAntiOlbTg/manifest/video.m3u8
+https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zVXRh6i.png" group-title="General",CHADA TV
 https://chadatv.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ezs3wtK.png" group-title="General",MBC 5
